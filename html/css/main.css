@@ -1,0 +1,151 @@
+/*
+	main css file
+*/
+
+/*.sidebar-container{
+	display: block;
+	text-align: center;
+	background-color: #000000;
+	height:100%;
+	width:280px;
+}
+*/
+.about-container figure{
+	width:200px;
+	height:150px;
+}
+
+.carousel-container{
+	width:600px;
+	height:400px;
+	vertical-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
+.contact-container h3{
+	color:#555555;
+}
+.contact-container .contact-content{
+	font-style: italic;
+	margin-left: 8px;
+	font-weight: normal;
+}
+
+.liv img{
+	width: 280px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	border-left: 1px solid #EEEEEE;
+	border-right: 1px solid #EEEEEE;
+}
+
+.rts img{
+	width: 300px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.joker img{
+	width: 600px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.course-proj img{
+	width: 600px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.home-container {
+	margin-top: 50px;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+.caption-container{
+	border-bottom: 1px solid #EEEEEE;
+	text-align: center;
+}
+
+
+.brand{
+	font-style: bold;
+	font-family: arial;
+}
+
+.carousel-caption{
+	opacity:0.6;
+	color:#ffffff;
+}
+.carousel-caption h1{
+	font-size: 25px;
+	margin-top: -5px;
+	margin-bottom: -5px;
+}
+
+.carousel-caption p{
+	font-size: 15px;
+	margin-left: 2px;
+}
+
+.intro-text{
+	margin-top: 15px;
+}
+
+.intro h4{
+	color: #555555;
+}
+
+.caption{
+	font-family: sans-serif;
+	color: #888888;
+}
+
+.social-nav{
+	display:table;
+	margin-left: 70px;
+	margin-top: 60px;
+}
+
+.social-nav li{
+	list-style-type: none;
+	display: inline-block;
+	margin-left: 50px;
+}
+
+.social li a:hover{
+	border-radius: 80px;
+	background-image: url("http://trojansite.com/taohu/img/social-icons.png");
+	height:60px;
+	width:60px;
+	display: block;
+	text-indent: -9999em;
+	box-shadow: 0px 0px 10px #999999;
+	opacity:0.9;
+}
+
+
+.social li a{
+	background-image: url("http://trojansite.com/taohu/img/social-icons.png");
+	height:60px;
+	width:60px;
+	display: block;
+	text-indent: -9999em;
+}
+.social li a.social-google {
+	background-position:-158px -511px;
+}
+
+.social .social-github{
+	background-position:-237px -432px;
+}
+.social .social-linkedin{
+	background-position:-316px -511px;
+}
+
+
